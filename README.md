@@ -67,13 +67,6 @@ Experiência com testes manuais desde a Quiker e aprofundamento atual em automa�
 - **Técnico em Informática** — IFBA  
 - **Formação complementar em React e Next.js** — Alura  
 
-## GitHub Stats
-
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=AlineJesus&show_icons=true&hide_border=true&theme=transparent&include_all_commits=true" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlineJesus&layout=compact&hide_border=true&theme=transparent" alt="Top languages" />
-</div>
-
 <br />
 
 <div align="center">
