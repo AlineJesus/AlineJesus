@@ -1,58 +1,81 @@
 <div align="center">
-  <img src="./assets/banner.svg" width="100%" alt="Aline Silva — Full Stack Developer" />
-  <br /><br />
-  <a href="https://www.linkedin.com/in/alinejesus/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://www.behance.net/alinejesus"><img src="https://img.shields.io/badge/Behance-1769FF?style=flat-square&logo=behance&logoColor=white" alt="Behance"/></a>
-  <a href="https://trampos.co/aline-silva"><img src="https://img.shields.io/badge/Portf%C3%B3lio-334155?style=flat-square" alt="Trampos.co"/></a>
+  <img src="./assets/banner-novo.png" width="100%" alt="Aline Silva - Full Stack Developer" />
 </div>
 
 <br />
 
-### Sobre mim
+# Olá, eu sou Aline Silva 👋
 
-Sou **desenvolvedora Full Stack**, com foco na construção de interfaces modernas, acessíveis e na evolução de produtos digitais. Trabalho com aplicações web, APIs, integrações e regras de negócio, buscando soluções de fácil manutenção e boa experiência para as pessoas.
+**Full Stack Developer | React · Next.js · Vue.js | Software Quality**
 
-Minha trajetória começou com design e desenvolvimento web e evoluiu para aplicações corporativas, plataformas digitais e serviços em nuvem. Tenho experiência com **QA manual desde meus projetos na Quiker** e atualmente aplico **automação de testes apoiada por inteligência artificial**, incluindo Cypress e Vitest.
+Sou desenvolvedora Full Stack com experiência na construção e evolução de aplicações web, desde interfaces modernas e acessíveis até APIs, integrações e regras de negócio no backend.
 
-### Tecnologias
+Minha trajetória começou com design e desenvolvimento web e evoluiu para projetos envolvendo plataformas digitais, sistemas de gestão, aplicações corporativas e serviços em nuvem.
+
+Tenho experiência com **React, Next.js, Vue.js, TypeScript, Node.js, Laravel, PHP e WordPress**, além de bancos de dados relacionais e não relacionais.
+
+Também atuo com **qualidade de software**, realizando testes manuais desde meus projetos na **Quiker**. Atualmente, venho ampliando essa experiência com **automação de testes apoiada por inteligência artificial**, com foco em qualidade, eficiência e melhoria contínua.
+
+## Conexões
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/alinejesus/" target="_blank">LinkedIn</a> •
+  <a href="https://www.behance.net/alinejesus" target="_blank">Behance</a> •
+  <a href="https://trampos.co/aline-silva" target="_blank">Trampos.co</a> •
+  <a href="https://github.com/AlineJesus" target="_blank">GitHub</a>
+</p>
+
+## Tecnologias
+
+### Frontend
+React · Next.js · Vue.js · JavaScript · TypeScript · HTML · CSS · Tailwind CSS · Styled Components
+
+### Backend
+Node.js · Laravel · PHP · APIs REST · Strapi · WordPress
+
+### Banco de dados e infraestrutura
+MySQL · PostgreSQL · SQL Server · MongoDB · Redis · AWS · Docker
+
+### Qualidade de software
+QA Manual · Testes Funcionais · Cypress · Vitest · Testes E2E · IA aplicada a testes
+
+## Experiências em destaque
+
+### Plataformas digitais e integrações
+Desenvolvimento de aplicações Full Stack, APIs e integrações entre sistemas, com atenção à manutenção, escalabilidade e regras de negócio.
+
+### Aplicações acessíveis
+Participação no desenvolvimento de solução gamificada para o ambiente acadêmico, com foco em acessibilidade visual e auditiva.
+
+### Sistemas de gestão e aplicações web
+Experiência com sistemas de gerenciamento, e-commerce, sites institucionais, landing pages e soluções web sob medida.
+
+### Qualidade e automação
+Experiência com testes manuais desde a Quiker e aprofundamento atual em automação apoiada por IA.
+
+## Experiência profissional
+
+- **Pyxys Inteligência Digital** — Desenvolvedora Full Stack  
+- **Kuara Tec LTDA** — Desenvolvedora Full Stack  
+- **Quiker** — Desenvolvedora Full Stack  
+- **App4you Aplicativos** — Desenvolvedora Full Stack  
+- **Levantti** — Desenvolvedora Full Stack  
+
+## Formação
+
+- **Análise e Desenvolvimento de Sistemas** — Anhanguera *(em andamento)*  
+- **Técnico em Informática** — IFBA  
+- **Formação complementar em React e Next.js** — Alura  
+
+## GitHub Stats
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,vue,ts,js,html,css,tailwind,php,laravel,nodejs,wordpress&perline=12" alt="Frontend e backend: React, Next.js, Vue.js, TypeScript, JavaScript, HTML, CSS, Tailwind, PHP, Laravel, Node.js e WordPress" />
-  <br />
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,aws,docker,git,github&perline=8" alt="Dados e infraestrutura: MySQL, PostgreSQL, MongoDB, Redis, AWS, Docker, Git e GitHub" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=AlineJesus&show_icons=true&hide_border=true&theme=transparent&include_all_commits=true" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlineJesus&layout=compact&hide_border=true&theme=transparent" alt="Top languages" />
 </div>
 
-### O que faço
-
-| Desenvolvimento | Qualidade de software |
-| :--- | :--- |
-| Interfaces em React, Next.js e Vue.js | Testes manuais e validações funcionais |
-| APIs, integrações e regras de negócio | Testes E2E com Cypress |
-| Laravel, Node.js e CMS como WordPress e Strapi | Vitest e IA aplicada à automação |
-| Bancos de dados e infraestrutura AWS | Atenção à acessibilidade e usabilidade |
-
-### Experiências em destaque
-
-- **Plataformas digitais e integrações:** desenvolvimento de aplicações Full Stack, APIs e fluxos de integração entre sistemas.
-- **Acessibilidade:** desenvolvimento de projeto gamificado para o contexto acadêmico, com foco em acessibilidade visual e auditiva.
-- **Sistemas de gestão e e-commerce:** experiência com aplicações para cadastros, estoque, pedidos e operações empresariais.
-- **QA e automação:** experiência com testes manuais desde a Quiker e aprofundamento atual em automação apoiada por IA.
-
-### GitHub em números
+<br />
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=AlineJesus&show_icons=true&hide_border=true&theme=transparent&include_all_commits=true" alt="Estatísticas do GitHub" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlineJesus&layout=compact&hide_border=true&theme=transparent" alt="Linguagens mais usadas nos repositórios públicos" />
-</div>
-
-<sub>As estatísticas dependem de serviços externos e podem não refletir contribuições em repositórios privados.</sub>
-
-### Formação
-
-Técnica em Informática pelo **IFBA** · Graduação em **Análise e Desenvolvimento de Sistemas** em andamento · Formação complementar em **React/Next.js** pela Alura.
-
----
-
-<div align="center">
-  <sub>Desenvolvimento de software · Qualidade · Aprendizado contínuo</sub>
+  <sub>Desenvolvimento de software • Qualidade • Aprendizado contínuo</sub>
 </div>
