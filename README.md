@@ -140,6 +140,15 @@ Tenho direcionado meus estudos e projetos para:
 - aplicações em nuvem;
 - uso de IA no ciclo de desenvolvimento de software.
 
+## Contribuições open source
+
+Também contribuo com projetos open source por meio de reports de issues, validação de comportamento e acompanhamento de problemas técnicos.
+
+Entre os projetos com os quais já contribuí estão:
+
+- **Strapi** — abertura e documentação de issues relacionadas ao uso da plataforma.
+- **OpenIFC / That Open** — contribuição e acompanhamento de questões em ferramentas voltadas a modelos IFC e aplicações AEC.
+
 <br />
 
 <div align="center">
